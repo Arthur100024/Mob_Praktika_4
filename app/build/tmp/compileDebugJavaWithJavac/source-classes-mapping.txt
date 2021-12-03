@@ -1,0 +1,5 @@
+it/mirea/karapetyan/BuildConfig.java
+ it.mirea.karapetyan.BuildConfig
+it/mirea/karapetyan/MainActivity.java
+ it.mirea.karapetyan.MainActivity
+ it.mirea.karapetyan.MainActivity$1
